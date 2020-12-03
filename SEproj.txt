@@ -1,0 +1,9 @@
+
+
+food - model
+FoodData - ngasihin data pake array list
+Main activity - mengeset tab yang muncul: list/profile
+Main Adapter - mengarahkan tab untuk menapilkan tiap-tiap fragment 
+Profile fragment - menampilkan layout profile
+Fragment Lists - mengeset data dengan recycler view
+GridFoodAdapter - ngeload data satu-satu ntuk ditampilkan ke fragment
